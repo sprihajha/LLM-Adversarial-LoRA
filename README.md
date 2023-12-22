@@ -27,8 +27,7 @@ This repository contains the code and resources for the final project in the EL-
 2. **Install Dependencies:**  
 
    ```bash
-
-pip install -r requirements.txt
+   pip install -r requirements.txt
     ```
 3. **Download Models:**  
 
