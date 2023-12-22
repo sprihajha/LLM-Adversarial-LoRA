@@ -9,7 +9,7 @@ This repository contains the code and resources for the final project in the EL-
 - `finetuned_models/`: Stores the models fine-tuned using LoRA.
 - `finetuning.py`: Python script defining the LoRA fine-tuning process.
 - `ft_datasets/`: Datasets used for fine-tuning the models.
-  - `harmful_behaviors.csv`: CSV file containing harmful prompts.
+- `harmful_behaviors.csv`: CSV file containing harmful prompts.
 - `model_checkpointing/`: Temporary storage for model checkpoints during training.
 - `requirements.txt`: Lists dependencies for the project.
 - `safety_evaluation/`: Code for comparing fine-tuned models against GPT-4.
